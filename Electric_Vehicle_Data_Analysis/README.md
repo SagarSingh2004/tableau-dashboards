@@ -84,7 +84,8 @@ Metrics View:
 ---
 
 🔗 Live Dashboard  
-View the interactive dashboard on Tableau Public: 👉 https://public.tableau.com/app/profile/sagar.singh7536/viz/ElectricVehicleDataAnalysis_17677205122230/Charts  
+View the interactive dashboard on Tableau Public: 👉 [**Tableau Public Dashboard Link**](https://public.tableau.com/app/profile/sagar.singh7536/viz/ElectricVehicleDataAnalysis_17677205122230/Charts)
+   
 
 ---
 
